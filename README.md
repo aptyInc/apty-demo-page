@@ -25,8 +25,6 @@ Nice Shopping website
 - - [x] Remove drop downs, add checkboxes 
 - - [x] Dynamic
 
-- [ ] Create Server
-
 - [ ] Profile page
 - - [x] Dummy backend (json file)
 - - [ ] Actual backend?
@@ -37,5 +35,3 @@ Nice Shopping website
 
 - [x] Place order
 - - [ ] Backend
-
-- [ ] Host website?
