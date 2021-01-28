@@ -1,0 +1,32 @@
+{
+    "pfp": "",
+    "name": "Rohan",
+    "email": "rohanrohan@rohan.com",
+    "phno": "9182736450",
+    "address": [
+        {
+            "id": "address0",
+            "recipientName": "Naruto",
+            "recipientPhno": "9876543210",
+            "pincode": "500500",
+            "areaStreet": "20, Plipplop Enclave",
+            "locality": "Hidden Village",
+            "city": "Konoha",
+            "state": "Hinokuni",
+            "landmark": "Alluri Sitarama Statue",
+            "addrType": "home"
+        }, 
+        {
+            "id":"address1",
+            "recipientName": "Gaara",
+            "recipientPhno": "9638527410",
+            "pincode": "600600",
+            "areaStreet": "31, Blipbloop Enclave",
+            "locality": "Hidden Village",
+            "city": "Suna",
+            "state": "Kazenokuni",
+            "landmark": "",
+            "addrType": "work"
+        }
+    ]
+}

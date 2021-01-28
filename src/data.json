@@ -1,0 +1,193 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Cotton Long Sleeve Printed Shirt (Navy)",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "S",
+                "L",
+                "XL"
+                ],
+                "gender": ["male"],
+                "department": ["shirt"]
+            },
+            "price": 759
+        },
+        {
+            "_id": "dress2",
+            "image": "/images/dress2.jpg",
+            "title": "Men's Solid Slim Fit Casual Shirt",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "S",
+                "XXL"
+                ],
+                "gender": ["male"],
+                "department": ["shirt"]
+            },
+            "price": 699
+        },
+        {
+            "_id": "dress3",
+            "image": "/images/dress3.jpg",
+            "title": "U Turn Men's Slim Fit Shirt",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "S",
+                "L",
+                "XXL"
+                ],
+                "gender": ["male"],
+                "department": ["shirt"]
+            },
+            "price": 599
+        },
+        {
+            "_id": "dress4",
+            "image": "/images/dress4.jpg",
+            "title": "All Weather Gear Men's Polo T-Shirt",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "S",
+                "L",
+                "XL"
+                ],
+                "gender": ["male"],
+                "department": ["shirt"]
+            },
+            "price": 299
+        },
+        {
+            "_id": "dress5",
+            "image": "/images/dress5.jpg",
+            "title": "Multi Color Full Sleeve T Shirt",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "L",
+                "XL",
+                "XXL"
+                ],
+                "gender": ["male"],
+                "department": ["shirt"]
+            },
+            "price": 249
+        },
+        {
+            "_id": "dress6",
+            "image": "/images/dress6.jpg",
+            "title": "Regular Fit Multi Color Polo T Shirt",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "S",
+                "L",
+                "XL"
+                ],
+                "gender": ["male"],
+                "department": ["shirt"]
+            },
+            "price": 349
+        },
+        {
+            "_id": "dress10",
+            "image": "/images/dress10.jpg",
+            "title": "Midi sundress with shirring detail",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "S",
+                "L",
+                "XL",
+                "XXL"
+                ],
+                "gender": ["female"],
+                "department": ["dress"]
+            },
+            "price": 299
+        },
+        {
+            "_id": "dress11",
+            "image": "/images/dress11.jpg",
+            "title": "Midi sundress with ruched front",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "S",
+                "M",
+                "L"
+                ],
+                "gender": ["female"],
+                "department": ["dress"]
+            },
+            "price": 389
+        },
+        {
+            "_id": "dress12",
+            "image": "/images/dress12.jpg",
+            "title": "Midi dress in pink ditsy floral",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "S",
+                "M",
+                "L"
+                ],
+                "gender": ["female"],
+                "department": ["dress"]
+            },
+            "price": 549
+        },
+        {
+            "_id": "dress13",
+            "image": "/images/dress13.jpg",
+            "title": "cami maxi dress in polka dot",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "XL"
+                ],
+                "gender": ["female"],
+                "department": ["dress"]
+            },
+            "price": 259
+        },
+        {
+            "_id": "dress14",
+            "image": "/images/dress14.jpg",
+            "title": "Frill mini dress in yellow polka dot",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "S",
+                "L",
+                "XL"
+                ],
+                "gender": ["female"],
+                "department": ["dress"]
+            },
+            "price": 899
+        },
+        {
+            "_id": "dress15",
+            "image": "/images/dress15.jpg",
+            "title": "Midi tea dress in blue and red spot",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "categories": {
+                "size": [
+                "XL",
+                "XXL"
+                ],
+                "gender": ["female"],
+                "department": ["dress"]
+            },
+            "price": 499
+        }
+    ]
+}
